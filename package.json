@@ -1,0 +1,13 @@
+{
+  "id": "waffleio",
+  "name": "WaffleIO",
+  "version": "1.0.10",
+  "description": "Waffle is lightweight project management tool that leverages a kanban-style board for developers and development teams using GitHub. Waffle helps developers stay focused and avoid interruptions by automatically updating Waffle boards based on activity already happening in GitHub.",
+  "main": "index.js",
+  "author": "Sion Williams <sion@nullbyteltd.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://waffle.io",
+    "hasNotificationSound": true
+  }
+}
